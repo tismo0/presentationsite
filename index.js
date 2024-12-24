@@ -7,7 +7,7 @@
         <meta name="color-scheme" content="light only"/>
         <meta name="description" content="Description de ayoub"/>
         <meta property="og:site_name" content="Ayoub Ghrd"/>
-        <meta property="og:title" content="Ayoub Ghd"/>
+        <meta property="og:title" content="Ayoub p"/>
         <meta property="og:type" content="website"/>
         <meta property="og:description" content="Description de ayoub"/>
         <meta property="og:image" content="https://ayoubghrd.carrd.co/assets/images/card.jpg?v=41c30bad"/>
@@ -99,7 +99,7 @@
                 transform: scale(1);
                 width: 100vw;
                 z-index: 0;
-                background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%20%3Cfilter%20id%3D%22noise%22%3E%20%3CfeTurbulence%20type%3D%22fractalNoise%22%20baseFrequency%3D%220.875%22%20result%3D%22noise%22%20%2F%3E%20%3CfeColorMatrix%20type%3D%22matrix%22%20values%3D%220.046875%200%200%200%200%200%200.07421875%200%200%200%200%200%200.109375%200%200%200%200%200%200.33984375%200%22%20%2F%3E%20%3C%2Ffilter%3E%20%3Crect%20filter%3D%22url%28%23noise%29%22%20x%3D%220%22%20y%3D%220%22%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22transparent%22%20opacity%3D%221%22%20%2F%3E%3C%2Fsvg%3E'), radial-gradient(79% 150% at 29% 100%, rgba(135,92,161,0.788) 21%, rgba(66,95,199,0.69) 68%, rgba(0,148,255,0.541) 100%), url('assets/images/bg.jpg?v=41c30bad');
+                background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%20%3Cfilter%20id%3D%22noise%22%3E%20%3CfeTurbulence%20type%3D%22fractalNoise%22%20baseFrequency%3D%220.875%22%20result%3D%22noise%22%20%2F%3E%20%3CfeColorMatrix%20type%3D%22matrix%22%20values%3D%220.046875%200%200%200%200%200%200.07421875%200%200%200%200%200%200.109375%200%200%200%200%200%200.33984375%200%22%20%2F%3E%20%3C%2Ffilter%3E%20%3Crect%20filter%3D%22url%28%23noise%29%22%20x%3D%220%22%20y%3D%220%22%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22transparent%22%20opacity%3D%221%22%20%2F%3E%3C%2Fsvg%3E'), radial-gradient(79% 150% at 29% 100%, rgba(135,92,161,0.788) 21%, rgba(66,95,199,0.69) 68%, rgba(0,148,255,0.541) 100%), url('https://www.japannakama.co.uk/wp-content/uploads/2023/06/2-1-1-1024x576.jpg');
                 background-size: 512px, cover, cover;
                 background-position: center, 0% 0%, center;
                 background-repeat: repeat, repeat, no-repeat;
@@ -1342,7 +1342,7 @@
                             <div class="inner" data-onvisible-trigger="1">
                                 <div id="image01" class="image">
                                     <a href="https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/f3251198-cdf1-453b-9a3f-807744286800/public" class="frame">
-                                        <img src="assets/images/image01.jpg?v=41c30bad" alt=""/>
+                                        <img src="image01.jpg" alt=""/>
                                     </a>
                                 </div>
                                 <h1 id="text02">
@@ -1365,7 +1365,7 @@
                                             <li>
                                                 <span class="thumbnail n01">
                                                     <span class="frame deferred">
-                                                        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjAiIHk9IjAiIHZpZXdCb3g9IjAgMCAxODY1IDEwOCIgd2lkdGg9IjE4NjUiIGhlaWdodD0iMTA4IiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48cmVjdCBmaWxsPSJ0cmFuc3BhcmVudCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIvPjwvc3ZnPg%3D%3D" data-src="assets/images/gallery01/419454d8.gif?v=41c30bad" alt="Untitled"/>
+                                                        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjAiIHk9IjAiIHZpZXdCb3g9IjAgMCAxODY1IDEwOCIgd2lkdGg9IjE4NjUiIGhlaWdodD0iMTA4IiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48cmVjdCBmaWxsPSJ0cmFuc3BhcmVudCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIvPjwvc3ZnPg%3D%3D" data-src="standard.gif" alt="Untitled"/>
                                                     </span>
                                                 </span>
                                             </li>
@@ -1428,7 +1428,7 @@
                     </div>
                     <div id="credits" class="icc-credits">
                         <span>
-                            <a href="https://carrd.co/build?ref=auto">Made with Carrd</a>
+                            <a href="https://github.com/tismo0/presentationsite">Vous voulez faire pareil? Cliquez sur mon github 100 pourcent Ayoub</a>
                         </span>
                     </div>
                 </div>
@@ -2806,6 +2806,7 @@
                 ready.run();
             }
             )();
+            
         </script>
     </body>
 </html>
